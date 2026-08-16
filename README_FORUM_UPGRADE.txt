@@ -1,0 +1,1 @@
+Forum upgraded with search, sorting, edit, pin, lock, reports, and Lucide icons.
